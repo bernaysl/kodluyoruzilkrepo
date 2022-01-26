@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisine bir adet README dosyası, bir adet de index.html barındırıyor.
-![resim](images/markdown.png)
+![resim](image/markdown.png)
 ## Installation
 Öncelikle projeyi clonelayın. 
 ```bash
